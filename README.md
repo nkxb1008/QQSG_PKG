@@ -23,3 +23,7 @@ QQ三国拆包工具源码
 运行 `./dotnet-install.ps1` 安装donet sdk
 
 运行 `./build.ps1` 编译代码，输出目录为 ./bin
+
+# 说明
+
+此库转发至https://github.com/wu-yafeng/QQSG_DecodePkg，非常感谢此作者
